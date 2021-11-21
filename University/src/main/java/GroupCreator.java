@@ -4,8 +4,8 @@ import java.util.Random;
 
 public class GroupCreator {
 
-    public static final Integer MIN_GROUP_SIZE = 15;
-    public static final Integer MAX_GROUP_SIZE = 35;
+    public static final Integer MIN_GROUP_SIZE = 1;//15
+    public static final Integer MAX_GROUP_SIZE = 3;//35
 
     public static final Integer MIN_SPECIALTY_NUMBER = 1;
     public static final Integer MAX_SPECIALTY_NUMBER = 200;

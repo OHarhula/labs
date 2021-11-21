@@ -6,8 +6,8 @@ import java.util.Random;
 public class FacultyCreator {
 
     public static final List<String> DICTIONARY_LETTERS_FOR_ABBREVIATION = Arrays.asList("A","E","I","O","U","Y","B","C","D","F","G","H","J","K","L","M","N","P","Q","R","S","T","V","W","X","Z");
-    public static final Integer MAX_CATHEDRAS_NUMBER = 5;
-    public static final Integer MIN_CATHEDRAS_NUMBER = 3;
+    public static final Integer MAX_CATHEDRAS_NUMBER = 3;//5
+    public static final Integer MIN_CATHEDRAS_NUMBER = 1;//3
 
     public static final Integer MAX_LETTERS_IN_ABBREVIATION = 5;
     public static final Integer MIN_LETTERS_IN_ABBREVIATION = 2;
