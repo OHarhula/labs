@@ -1,7 +1,7 @@
 package lab4;
 
 import com.google.gson.Gson;
-import lab2.University;
+import lab2.model.University;
 
 
 import java.io.*;
